@@ -1,5 +1,5 @@
 
-streamlit
+streamlits
 pandas
 numpy
 scikit-learn
@@ -7,6 +7,4 @@ matplotlib
 seaborn
 statsmodels
 pmdarima
-
-
 
