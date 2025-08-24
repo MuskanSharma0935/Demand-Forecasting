@@ -2,7 +2,7 @@
 streamlit
 pandas
 numpy
-statsmodels
-prophet
-pmdarima
+scikit-learn
 matplotlib
+seaborn
+
